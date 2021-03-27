@@ -5,17 +5,7 @@
  */
 package size;
 
-/**
- *
- * @author Taif
- */
-public class Size {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
         public int size(){
     node n = head;
     node m = tail;
@@ -31,4 +21,4 @@ public class Size {
 }
     }
     
-}
+
